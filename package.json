@@ -1,0 +1,11 @@
+{
+  "name": "sanber-javascript-pt1",
+  "version": "1.0.0",
+  "description": "belajar javascript sanbercode part 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node file_name.js"
+  },
+  "author": "vabela",
+  "license": "ISC"
+}
